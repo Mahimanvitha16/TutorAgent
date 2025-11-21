@@ -1,3 +1,0 @@
-chromadb
-faiss-cpu
-tiktoken
